@@ -14,4 +14,5 @@ In this Python Project, I had used Machine learning to identify the  gender and 
 
 ### To run the code:
 1. Clone the github repository in your computer. git clone
-2. Run age_gender.ipynb file That's it
+2. download the caffe model and protxt files
+3. Run gender_age.ipynb file That's it
