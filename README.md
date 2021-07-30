@@ -5,7 +5,7 @@ this repository contains my age and gender prediction project
 For this python project, I had used the Adience dataset; the dataset is available in the public domain and you can find it here
 [Link to dataset](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification)
 
-###About the Project : 
+### About the Project : 
 In this Python Project, I had used Machine learning to identify the  gender and age of a person. I used pretrained model.
 
 ###Additional Python Libraries Required :
